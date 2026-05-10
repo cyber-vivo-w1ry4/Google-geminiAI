@@ -1,3 +1,5 @@
+[dokumen pengesahan.pdf](https://github.com/user-attachments/files/27563617/dokumen.pengesahan.pdf)
+
 <img width="477" height="333" alt="work-pict-Copyright" src="https://github.com/user-attachments/assets/9805d94e-df72-4616-a8f0-92e3b298af08" />
 
 # Gemini CLI
