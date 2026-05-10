@@ -1,4 +1,5 @@
-<img width="2560" height="1600" alt="cyberw1ry4-LAB" src="https://github.com/user-attachments/assets/bfde10f3-f2f6-4a04-bd71-1599c099dc1a" />
+<img width="477" height="333" alt="work-pict-Copyright" src="https://github.com/user-attachments/assets/9805d94e-df72-4616-a8f0-92e3b298af08" />
+
 # Gemini CLI
 
 [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
