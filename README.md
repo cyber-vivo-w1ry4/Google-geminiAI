@@ -3,7 +3,7 @@
 <img width="477" height="333" alt="work-pict-Copyright" src="https://github.com/user-attachments/assets/9805d94e-df72-4616-a8f0-92e3b298af08" />
 
 # Gemini CLI
-
+# "https://www.tiktok.com/@fadliwiryawirawan"
 [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml)
 [![Gemini CLI E2E (Chained)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml/badge.svg)](https://github.com/google-gemini/gemini-cli/actions/workflows/chained_e2e.yml)
 [![Version](https://img.shields.io/npm/v/@google/gemini-cli)](https://www.npmjs.com/package/@google/gemini-cli)
